@@ -18,3 +18,5 @@
 
 /* Enable caps-lock LED */
 #define CAPS_LOCK_LED_INDEX 23
+
+#define DYNAMIC_MACRO_NO_NESTING
